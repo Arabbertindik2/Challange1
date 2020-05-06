@@ -160,21 +160,24 @@
                 android:orientation="horizontal">
 
                 <Button
+                    android:id="@+id/btneditname"
                     android:layout_height="wrap_content"
                     android:layout_width="100dp"
-                    android:layout_margin="16dp"
+                    android:layout_margin="10dp"
                     android:text="Edit Nama"/>
 
                 <Button
+                    android:id="@+id/btndial"
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"
-                    android:layout_margin="16dp"
+                    android:layout_margin="10dp"
                     android:text="Telepon" />
 
                 <Button
+                    android:id="@+id/btnabout"
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"
-                    android:layout_margin="16dp"
+                    android:layout_margin="10dp"
                     android:text="About"/>
 
             </LinearLayout>>
